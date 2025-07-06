@@ -1,10 +1,10 @@
 return {
-  { "morhetz/gruvbox" },
+  { "joshdick/onedark.vim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "onedark",
     },
   },
 }
